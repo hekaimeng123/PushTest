@@ -1,0 +1,1 @@
+{"name": "Test", "path": "E:/Test", "type": "\u56fe\u50cf\u5206\u7c7b", "create_time": "2026-01-12T23:08:29.870037", "update_time": "2026-01-12T23:08:29.870037", "show_on_list": true}
